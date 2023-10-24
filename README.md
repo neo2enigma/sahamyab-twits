@@ -23,9 +23,8 @@ After fetching data from Sahamyar, they must be filtered before inserting to dat
 
 ### Built with
 
-- NodeJs
+- JavaScript
 - PostgreSQL
-- Jest
 - [NodeJs](https://nodejs.org/en/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Jest](https://jestjs.io/)
